@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/morden-chair/static/css/main.8ca5a035.css",
+    "main.js": "/morden-chair/static/js/main.43083a3a.js",
+    "static/js/787.67186dcc.chunk.js": "/morden-chair/static/js/787.67186dcc.chunk.js",
+    "static/media/chair1.png": "/morden-chair/static/media/chair1.019d28614ac536fa91ae.png",
+    "static/media/chair4.png": "/morden-chair/static/media/chair4.74df259fe1ddab0f0ba2.png",
+    "static/media/chair6.png": "/morden-chair/static/media/chair6.ff7bdf8a8e6a0c209202.png",
+    "static/media/chair5.png": "/morden-chair/static/media/chair5.7bb294cef9f64f6f7c54.png",
+    "static/media/chair3.png": "/morden-chair/static/media/chair3.3bc4e5b436f55e2a6ef7.png",
+    "static/media/chair2.png": "/morden-chair/static/media/chair2.9f9bb5476db50e4eee1a.png",
+    "index.html": "/morden-chair/index.html",
+    "main.8ca5a035.css.map": "/morden-chair/static/css/main.8ca5a035.css.map",
+    "main.43083a3a.js.map": "/morden-chair/static/js/main.43083a3a.js.map",
+    "787.67186dcc.chunk.js.map": "/morden-chair/static/js/787.67186dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca5a035.css",
+    "static/js/main.43083a3a.js"
+  ]
+}
